@@ -1,2 +1,0 @@
-# fastdl
-# wavy
