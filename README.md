@@ -1,2 +1,1 @@
-# fastdl.github.io
-csgo
+# fastdl
